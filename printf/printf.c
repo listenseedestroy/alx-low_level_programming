@@ -1,5 +1,5 @@
 #include <main.h>
-
+#include stdarg.h
 /**
  * _printf - Printf function that handles c, s and %.
  * @format: format.
